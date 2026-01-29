@@ -66,7 +66,7 @@ Currently, I’m deep into **system design**, **algorithmic problem-solving**, a
       <sub><strong>LeetCode</strong></sub>
     </td>
     <td align="center">
-      <img src="https://gfgstatscard.vercel.app/vishwasshar?theme=dark" />
+      <img src="https://gfgstatscard.vercel.app/vishwasshar?theme=light" />
       <br />
       <sub><strong>GeeksforGeeks</strong></sub>
     </td>
