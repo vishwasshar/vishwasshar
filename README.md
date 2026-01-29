@@ -49,10 +49,7 @@ Currently, I’m deep into **system design**, **algorithmic problem-solving**, a
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=vishwasshar&show_icons=true&hide_border=true&theme=github_dark" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=vishwasshar&hide_border=true&theme=github-dark" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=vishwasshar&theme=aura" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -64,7 +61,7 @@ Currently, I’m deep into **system design**, **algorithmic problem-solving**, a
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://leetcard.jacoblin.cool/vishwas_shar?theme=dark&ext=heatmap" />
+      <img src="https://leetcard.jacoblin.cool/vishwas_shar?theme=aura&ext=heatmap](https://leetcard.jacoblin.cool/vishwas_shar?theme=light&font=Rubik%20Microbe&colors=%23000000%2C%23f0efe7%2C%230388a6%2C%23f14e32%2C%23eeeeee&ext=heatmap" />
       <br />
       <sub><strong>LeetCode</strong></sub>
     </td>
