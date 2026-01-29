@@ -1,79 +1,99 @@
-<h1 align="center">Hey there 👋 I’m Vishwas Sharma</h1>
-<h3 align="center">
-A software engineer with strong CS fundamentals, 2+ years of industry experience, and a habit of turning algorithms into systems that scale beyond the happy path.
-</h3>
-
+<h1 align="center">👋 Vishwas Sharma | I design what happens after v1</h1>
 
 <p align="center">
-Curious by nature • Strong CS fundamentals • Turning ideas into reliable systems
+  <em>
+    Software Engineer with strong CS fundamentals, 2+ years of industry experience,  
+    focused on DSA, system design, and building production-grade systems.
+  </em>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vishwasshar&label=Profile%20views&color=0e75b6&style=flat" alt="VishwasSharma"/>
+<p align="center">
+  Curious by nature • DSA-driven • System design focused • Clean code advocate
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishwasshar&label=Profile%20Views&color=444444&style=flat" />
 </p>
 
 ---
 
-### 👨‍💻 What I’m up to
-- 🔭 Building **CodeArenaX** — a real-time developer collaboration platform  
-- 🌱 Learning **Next.js, Three.js, and advanced DevOps** to think beyond just frontend/backend  
-- 🧠 Enjoy working close to **DSA, system design, and scalable architectures**
+## 🧠 About Me
 
-### 💬 Let’s talk about
-- Clean React & Node.js architectures  
-- Designing systems that survive growth  
-- Trade-offs, edge cases, and why “simple” is rarely simple
+I enjoy solving problems that don’t stop at the happy path.  
+With a **9.78 CGPA in MCA**, **2+ years of hands-on experience**, and consistent **DSA practice (Striver’s Sheet)**,  
+I focus on designing systems where **trade-offs are explicit, decisions are intentional, and scale is planned**.
 
-### 📫 Reach me at
-- **vishwassharma3287@gmail.com**
+Currently, I’m deep into **system design**, **algorithmic problem-solving**, and building  
+**CodeArenaX** — a real-time developer collaboration platform.
 
-### ⚡ A small truth about me
-- I’ll choose **clean, scalable code** over shortcuts—every single time
+---
 
-<h2 align="center">🌐 Let’s Connect & Build Something Meaningful</h2>
+## 🎯 Current Focus
+
+- 🔭 **CodeArenaX** — Real-time developer collaboration & code execution platform  
+- 🧩 **Data Structures & Algorithms** — depth, patterns, and edge cases  
+- 🏗️ **System Design** — scalability, reliability, architectural trade-offs  
+
+---
+
+## 🧰 Tools & Technologies
 
 <p align="center">
-I enjoy conversations around engineering trade-offs, scalable systems, and building things that last.
-If that resonates, let’s connect 👇
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,ts,docker,git&theme=dark" />
 </p>
 
+---
+
+## 📊 Engineering Consistency (Live Signals)
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=vishwasshar&show_icons=true&hide_border=true&theme=github_dark" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=vishwasshar&hide_border=true&theme=github-dark" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧩 Problem-Solving Profiles
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/vishwas_shar?theme=dark&ext=heatmap" />
+      <br />
+      <sub><strong>LeetCode</strong></sub>
+    </td>
+    <td align="center">
+      <img src="https://gfgstatscard.vercel.app/vishwasshar?theme=dark" />
+      <br />
+      <sub><strong>GeeksforGeeks</strong></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Connect
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishwassharma3287" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vishwas%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/vishwassharma3287">
+    <img src="https://img.shields.io/badge/LinkedIn-Vishwas%20Sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:vishwassharma3287@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-444444?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<h2 align="center">🧠 Languages & Tools I Build With</h2>
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,ts,docker,webpack,git&theme=dark" />
-</p>
-
-<p align="center">
-From clean UI components to backend systems and containerized deployments —  
-these are tools I rely on to turn ideas into production-grade software.
-</p>
-
-<h2 align="center">📊 Consistency, Problem Solving & Growth</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishwasshar&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwasshar&theme=tokyonight&show_icons=true&hide_border=true" />
-</p>
-
-<h2 align="center">🧩 DSA & Competitive Programming Journey</h2>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/vishwas_shar?theme=dark&ext=heatmap" />
-</p>
-
-<p align="center">
-  <img src="https://gfgstatscard.vercel.app/vishwasshar?theme=dark" />
-</p>
-
-<p align="center">
-I don’t just solve problems — I look for patterns, edge cases, and trade-offs that scale.
+  <em>
+    I chase edge cases, think in trade-offs, and design systems that hold up at scale.
+  </em>
 </p>
