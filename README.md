@@ -44,18 +44,6 @@ Currently, I’m deep into **system design**, **algorithmic problem-solving**, a
 
 ---
 
-## 📊 Engineering Consistency (Live Signals)
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vishwasshar&theme=aura" alt="GitHub Streak" /></a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🧩 Problem-Solving Profiles
 
 <table align="center">
