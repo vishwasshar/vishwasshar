@@ -49,7 +49,7 @@ Currently, I’m deep into **system design**, **algorithmic problem-solving**, a
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=vishwasshar&theme=aura" alt="GitHub Streak" />
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vishwasshar&theme=aura" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
@@ -61,7 +61,7 @@ Currently, I’m deep into **system design**, **algorithmic problem-solving**, a
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://leetcard.jacoblin.cool/vishwas_shar?theme=aura&ext=heatmap](https://leetcard.jacoblin.cool/vishwas_shar?theme=light&font=Rubik%20Microbe&colors=%23000000%2C%23f0efe7%2C%230388a6%2C%23f14e32%2C%23eeeeee&ext=heatmap" />
+      <img src="https://leetcard.jacoblin.cool/vishwas_shar?theme=light&font=Rubik%20Microbe&colors=%23F8FAFC%2C%20%231F2937%20%2C%20%230F766E%2C%20%23DC2626%2C%20%20%230F766E%2C%20%2316A34A&ext=heatmap" />
       <br />
       <sub><strong>LeetCode</strong></sub>
     </td>
